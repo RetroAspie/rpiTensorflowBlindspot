@@ -21,7 +21,7 @@ Download the latest image off the releases page and flash it onto a SD card with
 ### Who made this and when:
 Project start: Friday 1st March
 
-Installation and building of Tensorflow and object models: Wednesday 6th March - Saturday 10th March
+Installation and building of Tensorflow and object models: Wednesday 6th March - Saturday 9th March
 
 Programming: Monday March 11th - Monday March 18th
 
