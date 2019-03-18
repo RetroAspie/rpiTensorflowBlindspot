@@ -23,8 +23,8 @@ Project start: Friday 1st March
 
 Installation and building of Tensorflow and object models: Wednesday 6th March - Saturday 10th March
 
-Programming: Monday March 10th - Monday March 17th
+Programming: Monday March 11th - Monday March 18th
 
-Deadline: Monday March 17th
+Deadline: Monday March 18th
 
 This project was programmed, tested, documentated and completed in just over two weeks by [@ed6767](https://github.com/ed6767), [@retroaspie](https://github.com/retroaspie) and [@DRagaven](https://github.com/DRagaven)
